@@ -1,6 +1,6 @@
 # Airfoil-Plotter
 
-The first iteration of a tool to create plots and initial CAD models during iteration for AERO McGill (created October 2018).
+The first iteration of a tool to create plots and initial CAD model of aircraft wing during iteration for AERO McGill (created October 2018).
 
 ## Background
 
